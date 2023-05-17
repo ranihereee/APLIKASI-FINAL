@@ -5,7 +5,7 @@ st.markdown("<h1 style='text-align: center; color: blue;'>ISOKINETIC PRESENTAGE<
 st.markdown("<h2 style='text-align: center; color: black;'>digunakan untuk memudahkan kalian menghitung persen isokinetik untuk menguji kadar partikulat emisi sumber tidak bergerak </h2>", unsafe_allow_html=True)
 st.caption('Alat ini dibuat oleh anggota kelompok 7 yaitu Akbar Kurnia ramadhan,Deby marsha,Kurnia Aynun,Nathalia,dan muhammad fauzi untuk keperluan tugas mata kuliah logika pemrograman komputer.')
 st.caption('**alat ini masih dalam versi percobaan**')
-st.write('untuk memulai perhitungan silahkan tekan tombol garis tiga di kiri atas untuk berpindah portal')
+st.write('untuk memulai perhitungan silahkan tap tombol di kiri atas untuk berpindah portal')
 st.markdown("<hr style='height:1px;border:none;color:#333;background-color:#333;' />", unsafe_allow_html=True)
 
 
