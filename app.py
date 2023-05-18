@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-st.markdown("<h1 style='text-align: center; color: blue;'>ISOKINETIC PRESENTAGE</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>PERCENTAGE ISOKINETIC</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: black;'>digunakan untuk memudahkan kalian menghitung persen isokinetik untuk menguji kadar partikulat emisi sumber tidak bergerak </h2>", unsafe_allow_html=True)
 st.caption('Alat ini dibuat oleh anggota kelompok 7 yaitu Akbar Kurnia ramadhan,Deby marsha,Kurnia Aynun,Nathalia,dan muhammad fauzi untuk keperluan tugas mata kuliah logika pemrograman komputer.')
 st.caption('**alat ini masih dalam versi percobaan**')
